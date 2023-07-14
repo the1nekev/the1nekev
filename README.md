@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [myFlix-client](https://github.com/the1nekev/myFlix-client)
 
-- 🌱 I’m currently learning **Frontend Development through the Career Foundry Course!**
+- 🌱 I’m currently learning **Full Stack Web Development through the Career Foundry Course!**
 
 - 📫 How to reach me **kevcorcino15@gmail.com**
 
